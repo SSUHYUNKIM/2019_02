@@ -17,8 +17,7 @@
   * homework for Ch3&4
   * [링크](https://github.com/SSUHYUNKIM/2019_02/tree/main/Mathematical%20Models%20for%20Engineering%20Problems%20and%20Different%20Equation/project%234)
 
-### 유닉스프로그래밍
-
 ### 자료구조
-
+* Ch3, 4, 5, 7, 8, 9, 10
+* [링크](https://github.com/SSUHYUNKIM/2019_02/tree/main/Data%20Structure)
 
